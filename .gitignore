@@ -1,0 +1,25 @@
+# 忽略测试文件
+test.*
+*.test.*
+
+# 忽略 Microsoft Office 临时文件
+~$*
+
+# 忽略 Python 缓存文件
+__pycache__/
+
+# 忽略 jupyter notebook 的临时文件
+.ipynb_checkpoints/
+.virtual_documents/
+
+# 忽略 venv 虚拟环境
+venv/
+
+# 忽略 VSCode 配置文件
+.vscode/
+
+# 忽略 Jetbrains IDE 配置文件
+.idea/
+
+# 忽略 VSCode 运行片段
+tempCodeRunnerFile.*
